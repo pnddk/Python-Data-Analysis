@@ -4,7 +4,7 @@ This program is my answer to the assignment on making a mean variance standard d
 
 ## You will be working on this project with our Gitpod starter code.
 
-### We are still developing the interactive instructional part of the Python curriculum. For now, here are some videos on the freeCodeCamp.org YouTube channel that will teach you everything you need to know to complete this project:
+## We are still developing the interactive instructional part of the Python curriculum. For now, here are some videos on the freeCodeCamp.org YouTube channel that will teach you everything you need to know to complete this project:
 
     Python for Everybody Video Course (14 hours)
 
@@ -25,10 +25,10 @@ This program is my answer to the assignment on making a mean variance standard d
   'sum': [axis1, axis2, flattened]
 }
 
-## If a list containing less than 9 elements is passed into the function, it should raise a ValueError exception with the message: "List must contain nine numbers." The values in the returned dictionary should be lists and not Numpy arrays.
+### If a list containing less than 9 elements is passed into the function, it should raise a ValueError exception with the message: "List must contain nine numbers." The values in the returned dictionary should be lists and not Numpy arrays.
 
-## For example, calculate([0,1,2,3,4,5,6,7,8]) should return:
-
+### For example, calculate([0,1,2,3,4,5,6,7,8]) should return:
+'''
 {
   'mean': [[3.0, 4.0, 5.0], [1.0, 4.0, 7.0], 4.0],
   'variance': [[6.0, 6.0, 6.0], [0.6666666666666666, 0.6666666666666666, 0.6666666666666666], 6.666666666666667],
@@ -37,7 +37,7 @@ This program is my answer to the assignment on making a mean variance standard d
   'min': [[0, 1, 2], [0, 3, 6], 0],
   'sum': [[9, 12, 15], [3, 12, 21], 36]
 }
-
+'''
 ## Development
 
 ### Write your code in mean_var_std.py. For development, you can use main.py to test your code.
