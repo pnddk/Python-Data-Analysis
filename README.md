@@ -1,1 +1,0 @@
-This program is my answer to the assignment on making a mean variance standard deviation calculator using Python and Numpy. The assignment can be found on FreeCodeCamp at: https://www.freecodecamp.org/learn/data-analysis-with-python/data-analysis-with-python-projects/mean-variance-standard-deviation-calculator
